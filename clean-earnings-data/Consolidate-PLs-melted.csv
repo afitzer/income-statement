@@ -1,0 +1,265 @@
+P&L Item,Company,Ticker,Year,Value
+Revenue,Johnson & Johnson,JNJ,2020,82584
+COGS,Johnson & Johnson,JNJ,2020,28427
+Gross Margin,Johnson & Johnson,JNJ,2020,54157
+Gross Margin %,Johnson & Johnson,JNJ,2020,0.66
+SG&A Expense,Johnson & Johnson,JNJ,2020,22084
+R&D Expense,Johnson & Johnson,JNJ,2020,12159
+In Process R&D Expense,Johnson & Johnson,JNJ,2020,181
+Operating Income,Johnson & Johnson,JNJ,2020,19733
+Operating Margin %,Johnson & Johnson,JNJ,2020,0.24
+Other Expense,Johnson & Johnson,JNJ,2020,2899
+Restructuring Expense,Johnson & Johnson,JNJ,2020,247
+Earnings Before Interest & Tax,Johnson & Johnson,JNJ,2020,16587
+Interest Income,Johnson & Johnson,JNJ,2020,-111
+Interest Expense,Johnson & Johnson,JNJ,2020,201
+Earnings Before Tax,Johnson & Johnson,JNJ,2020,16497
+Income Tax Expense,Johnson & Johnson,JNJ,2020,1783
+Net Income,Johnson & Johnson,JNJ,2020,14714
+Net Margin %,Johnson & Johnson,JNJ,2020,0.18
+Basic Net EPS,Johnson & Johnson,JNJ,2020,5.59
+Diluted Net EPS,Johnson & Johnson,JNJ,2020,5.51
+Basic Shares Outstanding,Johnson & Johnson,JNJ,2020,2633
+Diluted Shares Outstanding,Johnson & Johnson,JNJ,2020,2671
+Revenue,Coca-Cola,KO,2020,33014
+COGS,Coca-Cola,KO,2020,13433
+Gross Margin,Coca-Cola,KO,2020,19581
+Gross Margin %,Coca-Cola,KO,2020,0.59
+SG&A Expense,Coca-Cola,KO,2020,9731
+Other Operating Expenses,Coca-Cola,KO,2020,853
+Operating Income,Coca-Cola,KO,2020,8997
+Operating Margin %,Coca-Cola,KO,2020,0.27
+Equity Income,Coca-Cola,KO,2020,978
+Other Income,Coca-Cola,KO,2020,841
+Earnings Before Interest & Tax,Coca-Cola,KO,2020,10816
+Interest Income,Coca-Cola,KO,2020,370
+Interest Expense,Coca-Cola,KO,2020,1437
+Earnings Before Tax,Coca-Cola,KO,2020,9749
+Income Tax Expense,Coca-Cola,KO,2020,1981
+Consolidated Net Income,Coca-Cola,KO,2020,7768
+Minority Interest Expense,Coca-Cola,KO,2020,21
+Net Income,Coca-Cola,KO,2020,7747
+Net Margin %,Coca-Cola,KO,2020,0.24
+Basic Net EPS,Coca-Cola,KO,2020,1.8
+Diluted Net EPS,Coca-Cola,KO,2020,1.79
+Basic Shares Outstanding,Coca-Cola,KO,2020,4295
+Diluted Shares Outstanding,Coca-Cola,KO,2020,4323
+Revenue,Pepsi,PEP,2020,70372
+COGS,Pepsi,PEP,2020,31760
+Gross Margin,Pepsi,PEP,2020,38612
+Gross Margin %,Pepsi,PEP,2020,0.55
+SG&A Expense,Pepsi,PEP,2020,27478
+R&D Expense,Pepsi,PEP,2020,719
+Operating Income,Pepsi,PEP,2020,10415
+Operating Margin %,Pepsi,PEP,2020,0.15
+Unusual Expense,Pepsi,PEP,2020,336
+Non Operating Expense,Pepsi,PEP,2020,253
+Earnings Before Interest & Tax,Pepsi,PEP,2020,9826
+Interest Expense,Pepsi,PEP,2020,1263
+Earnings Before Tax,Pepsi,PEP,2020,8563
+Income Tax Expense,Pepsi,PEP,2020,1894
+Consolidated Net Income,Pepsi,PEP,2020,6669
+Minority Interest Expense,Pepsi,PEP,2020,55
+Net Income,Pepsi,PEP,2020,6614
+Net Margin %,Pepsi,PEP,2020,0.09
+Basic Net EPS,Pepsi,PEP,2020,4.78
+Diluted Net EPS,Pepsi,PEP,2020,4.75
+Basic Shares Outstanding,Pepsi,PEP,2020,1385
+Diluted Shares Outstanding,Pepsi,PEP,2020,1392
+Revenue,Proctor & Gamble,PG,2020,70950
+COGS,Proctor & Gamble,PG,2020,35250
+Gross Margin,Proctor & Gamble,PG,2020,35700
+Gross Margin %,Proctor & Gamble,PG,2020,0.5
+SG&A Expense,Proctor & Gamble,PG,2020,19994
+Operating Income,Proctor & Gamble,PG,2020,15706
+Operating Margin %,Proctor & Gamble,PG,2020,0.22
+Other Income,Proctor & Gamble,PG,2020,438
+Earnings Before Interest & Tax,Proctor & Gamble,PG,2020,16144
+Interest Expense,Proctor & Gamble,PG,2020,465
+Interest Income,Proctor & Gamble,PG,2020,-155
+Earnings Before Tax,Proctor & Gamble,PG,2020,15834
+Income Tax Expense,Proctor & Gamble,PG,2020,2731
+Consolidated Net Income,Proctor & Gamble,PG,2020,13103
+Minority Interest Expense,Proctor & Gamble,PG,2020,76
+Net Income,Proctor & Gamble,PG,2020,13027
+Net Margin %,Proctor & Gamble,PG,2020,0.18
+Basic Net EPS,Proctor & Gamble,PG,2020,5.13
+Diluted Net EPS,Proctor & Gamble,PG,2020,4.96
+Basic Shares Outstanding,Proctor & Gamble,PG,2020,2539
+Diluted Shares Outstanding,Proctor & Gamble,PG,2020,2626
+Revenue,Johnson & Johnson,JNJ,2021,93775
+COGS,Johnson & Johnson,JNJ,2021,29855
+Gross Margin,Johnson & Johnson,JNJ,2021,63920
+Gross Margin %,Johnson & Johnson,JNJ,2021,0.68
+SG&A Expense,Johnson & Johnson,JNJ,2021,24659
+R&D Expense,Johnson & Johnson,JNJ,2021,14714
+In Process R&D Expense,Johnson & Johnson,JNJ,2021,900
+Operating Income,Johnson & Johnson,JNJ,2021,23647
+Operating Margin %,Johnson & Johnson,JNJ,2021,0.25
+Other Expense,Johnson & Johnson,JNJ,2021,489
+Restructuring Expense,Johnson & Johnson,JNJ,2021,252
+Earnings Before Interest & Tax,Johnson & Johnson,JNJ,2021,22906
+Interest Income,Johnson & Johnson,JNJ,2021,-53
+Interest Expense,Johnson & Johnson,JNJ,2021,183
+Earnings Before Tax,Johnson & Johnson,JNJ,2021,22776
+Income Tax Expense,Johnson & Johnson,JNJ,2021,1898
+Net Income,Johnson & Johnson,JNJ,2021,20878
+Net Margin %,Johnson & Johnson,JNJ,2021,0.22
+Basic Net EPS,Johnson & Johnson,JNJ,2021,7.93
+Diluted Net EPS,Johnson & Johnson,JNJ,2021,7.81
+Basic Shares Outstanding,Johnson & Johnson,JNJ,2021,2632
+Diluted Shares Outstanding,Johnson & Johnson,JNJ,2021,2674
+Revenue,Coca-Cola,KO,2021,38655
+COGS,Coca-Cola,KO,2021,15357
+Gross Margin,Coca-Cola,KO,2021,23298
+Gross Margin %,Coca-Cola,KO,2021,0.6
+SG&A Expense,Coca-Cola,KO,2021,12144
+Other Operating Expenses,Coca-Cola,KO,2021,846
+Operating Income,Coca-Cola,KO,2021,10308
+Operating Margin %,Coca-Cola,KO,2021,0.27
+Equity Income,Coca-Cola,KO,2021,1438
+Other Income,Coca-Cola,KO,2021,2000
+Earnings Before Interest & Tax,Coca-Cola,KO,2021,13746
+Interest Income,Coca-Cola,KO,2021,276
+Interest Expense,Coca-Cola,KO,2021,1597
+Earnings Before Tax,Coca-Cola,KO,2021,12425
+Income Tax Expense,Coca-Cola,KO,2021,2621
+Consolidated Net Income,Coca-Cola,KO,2021,9804
+Minority Interest Expense,Coca-Cola,KO,2021,33
+Net Income,Coca-Cola,KO,2021,9771
+Net Margin %,Coca-Cola,KO,2021,0.25
+Basic Net EPS,Coca-Cola,KO,2021,2.26
+Diluted Net EPS,Coca-Cola,KO,2021,2.25
+Basic Shares Outstanding,Coca-Cola,KO,2021,4315
+Diluted Shares Outstanding,Coca-Cola,KO,2021,4340
+Revenue,Pepsi,PEP,2021,79468
+COGS,Pepsi,PEP,2021,36932
+Gross Margin,Pepsi,PEP,2021,42536
+Gross Margin %,Pepsi,PEP,2021,0.54
+SG&A Expense,Pepsi,PEP,2021,30337
+R&D Expense,Pepsi,PEP,2021,752
+Operating Income,Pepsi,PEP,2021,11447
+Operating Margin %,Pepsi,PEP,2021,0.14
+Unusual Expense,Pepsi,PEP,2021,303
+Non Operating Expense,Pepsi,PEP,2021,420
+Earnings Before Interest & Tax,Pepsi,PEP,2021,10724
+Interest Expense,Pepsi,PEP,2021,1743
+Earnings Before Tax,Pepsi,PEP,2021,8981
+Income Tax Expense,Pepsi,PEP,2021,2142
+Consolidated Net Income,Pepsi,PEP,2021,6839
+Minority Interest Expense,Pepsi,PEP,2021,61
+Net Income,Pepsi,PEP,2021,6778
+Net Margin %,Pepsi,PEP,2021,0.09
+Basic Net EPS,Pepsi,PEP,2021,4.9
+Diluted Net EPS,Pepsi,PEP,2021,4.88
+Basic Shares Outstanding,Pepsi,PEP,2021,1382
+Diluted Shares Outstanding,Pepsi,PEP,2021,1389
+Revenue,Proctor & Gamble,PG,2021,76118
+COGS,Proctor & Gamble,PG,2021,37108
+Gross Margin,Proctor & Gamble,PG,2021,39010
+Gross Margin %,Proctor & Gamble,PG,2021,0.51
+SG&A Expense,Proctor & Gamble,PG,2021,21024
+Operating Income,Proctor & Gamble,PG,2021,17986
+Operating Margin %,Proctor & Gamble,PG,2021,0.24
+Other Income,Proctor & Gamble,PG,2021,86
+Earnings Before Interest & Tax,Proctor & Gamble,PG,2021,18072
+Interest Expense,Proctor & Gamble,PG,2021,502
+Interest Income,Proctor & Gamble,PG,2021,-45
+Earnings Before Tax,Proctor & Gamble,PG,2021,17615
+Income Tax Expense,Proctor & Gamble,PG,2021,3263
+Consolidated Net Income,Proctor & Gamble,PG,2021,14352
+Minority Interest Expense,Proctor & Gamble,PG,2021,46
+Net Income,Proctor & Gamble,PG,2021,14306
+Net Margin %,Proctor & Gamble,PG,2021,0.19
+Basic Net EPS,Proctor & Gamble,PG,2021,5.69
+Diluted Net EPS,Proctor & Gamble,PG,2021,5.5
+Basic Shares Outstanding,Proctor & Gamble,PG,2021,2514
+Diluted Shares Outstanding,Proctor & Gamble,PG,2021,2601
+Revenue,Johnson & Johnson,JNJ,2022,94943
+COGS,Johnson & Johnson,JNJ,2022,31089
+Gross Margin,Johnson & Johnson,JNJ,2022,63854
+Gross Margin %,Johnson & Johnson,JNJ,2022,0.67
+SG&A Expense,Johnson & Johnson,JNJ,2022,24765
+R&D Expense,Johnson & Johnson,JNJ,2022,14603
+In Process R&D Expense,Johnson & Johnson,JNJ,2022,783
+Operating Income,Johnson & Johnson,JNJ,2022,23703
+Operating Margin %,Johnson & Johnson,JNJ,2022,0.25
+Other Expense,Johnson & Johnson,JNJ,2022,1871
+Restructuring Expense,Johnson & Johnson,JNJ,2022,321
+Earnings Before Interest & Tax,Johnson & Johnson,JNJ,2022,21511
+Interest Income,Johnson & Johnson,JNJ,2022,-490
+Interest Expense,Johnson & Johnson,JNJ,2022,276
+Earnings Before Tax,Johnson & Johnson,JNJ,2022,21725
+Income Tax Expense,Johnson & Johnson,JNJ,2022,3784
+Net Income,Johnson & Johnson,JNJ,2022,17941
+Net Margin %,Johnson & Johnson,JNJ,2022,0.19
+Basic Net EPS,Johnson & Johnson,JNJ,2022,6.83
+Diluted Net EPS,Johnson & Johnson,JNJ,2022,6.73
+Basic Shares Outstanding,Johnson & Johnson,JNJ,2022,2625
+Diluted Shares Outstanding,Johnson & Johnson,JNJ,2022,2664
+Revenue,Coca-Cola,KO,2022,43004
+COGS,Coca-Cola,KO,2022,18000
+Gross Margin,Coca-Cola,KO,2022,25004
+Gross Margin %,Coca-Cola,KO,2022,0.58
+SG&A Expense,Coca-Cola,KO,2022,12880
+Other Operating Expenses,Coca-Cola,KO,2022,1215
+Operating Income,Coca-Cola,KO,2022,10909
+Operating Margin %,Coca-Cola,KO,2022,0.25
+Equity Income,Coca-Cola,KO,2022,1472
+Other Income,Coca-Cola,KO,2022,-262
+Earnings Before Interest & Tax,Coca-Cola,KO,2022,12119
+Interest Income,Coca-Cola,KO,2022,449
+Interest Expense,Coca-Cola,KO,2022,882
+Earnings Before Tax,Coca-Cola,KO,2022,11686
+Income Tax Expense,Coca-Cola,KO,2022,2115
+Consolidated Net Income,Coca-Cola,KO,2022,9571
+Minority Interest Expense,Coca-Cola,KO,2022,29
+Net Income,Coca-Cola,KO,2022,9542
+Net Margin %,Coca-Cola,KO,2022,0.22
+Basic Net EPS,Coca-Cola,KO,2022,2.2
+Diluted Net EPS,Coca-Cola,KO,2022,1.19
+Basic Shares Outstanding,Coca-Cola,KO,2022,4328
+Diluted Shares Outstanding,Coca-Cola,KO,2022,4350
+Revenue,Pepsi,PEP,2022,86403
+COGS,Pepsi,PEP,2022,40281
+Gross Margin,Pepsi,PEP,2022,46122
+Gross Margin %,Pepsi,PEP,2022,0.53
+SG&A Expense,Pepsi,PEP,2022,33485
+R&D Expense,Pepsi,PEP,2022,771
+Operating Income,Pepsi,PEP,2022,11866
+Operating Margin %,Pepsi,PEP,2022,0.14
+Unusual Expense,Pepsi,PEP,2022,3577
+Non Operating Expense,Pepsi,PEP,2022,3196
+Earnings Before Interest & Tax,Pepsi,PEP,2022,5093
+Interest Expense,Pepsi,PEP,2022,780
+Earnings Before Tax,Pepsi,PEP,2022,4313
+Income Tax Expense,Pepsi,PEP,2022,1727
+Consolidated Net Income,Pepsi,PEP,2022,2586
+Minority Interest Expense,Pepsi,PEP,2022,68
+Net Income,Pepsi,PEP,2022,2518
+Net Margin %,Pepsi,PEP,2022,0.03
+Basic Net EPS,Pepsi,PEP,2022,1.82
+Diluted Net EPS,Pepsi,PEP,2022,1.82
+Basic Shares Outstanding,Pepsi,PEP,2022,1380
+Diluted Shares Outstanding,Pepsi,PEP,2022,1387
+Revenue,Proctor & Gamble,PG,2022,80187
+COGS,Proctor & Gamble,PG,2022,42157
+Gross Margin,Proctor & Gamble,PG,2022,38030
+Gross Margin %,Proctor & Gamble,PG,2022,0.47
+SG&A Expense,Proctor & Gamble,PG,2022,20217
+Operating Income,Proctor & Gamble,PG,2022,17813
+Operating Margin %,Proctor & Gamble,PG,2022,0.22
+Other Income,Proctor & Gamble,PG,2022,570
+Earnings Before Interest & Tax,Proctor & Gamble,PG,2022,18383
+Interest Expense,Proctor & Gamble,PG,2022,439
+Interest Income,Proctor & Gamble,PG,2022,-51
+Earnings Before Tax,Proctor & Gamble,PG,2022,17995
+Income Tax Expense,Proctor & Gamble,PG,2022,3202
+Consolidated Net Income,Proctor & Gamble,PG,2022,14793
+Minority Interest Expense,Proctor & Gamble,PG,2022,51
+Net Income,Proctor & Gamble,PG,2022,14742
+Net Margin %,Proctor & Gamble,PG,2022,0.18
+Basic Net EPS,Proctor & Gamble,PG,2022,6
+Diluted Net EPS,Proctor & Gamble,PG,2022,5.81
+Basic Shares Outstanding,Proctor & Gamble,PG,2022,2457
+Diluted Shares Outstanding,Proctor & Gamble,PG,2022,2537

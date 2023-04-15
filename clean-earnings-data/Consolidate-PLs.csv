@@ -1,0 +1,89 @@
+﻿P&L Item,2022,2021,2020,Company,Ticker
+Revenue,94943,93775,82584,Johnson & Johnson,JNJ
+COGS,31089,29855,28427,Johnson & Johnson,JNJ
+Gross Margin,63854,63920,54157,Johnson & Johnson,JNJ
+Gross Margin %,0.67,0.68,0.66,Johnson & Johnson,JNJ
+SG&A Expense,24765,24659,22084,Johnson & Johnson,JNJ
+R&D Expense,14603,14714,12159,Johnson & Johnson,JNJ
+In Process R&D Expense,783,900,181,Johnson & Johnson,JNJ
+Operating Income,23703,23647,19733,Johnson & Johnson,JNJ
+Operating Margin %,0.25,0.25,0.24,Johnson & Johnson,JNJ
+Other Expense,1871,489,2899,Johnson & Johnson,JNJ
+Restructuring Expense,321,252,247,Johnson & Johnson,JNJ
+Earnings Before Interest & Tax,21511,22906,16587,Johnson & Johnson,JNJ
+Interest Income,-490,-53,-111,Johnson & Johnson,JNJ
+Interest Expense,276,183,201,Johnson & Johnson,JNJ
+Earnings Before Tax,21725,22776,16497,Johnson & Johnson,JNJ
+Income Tax Expense,3784,1898,1783,Johnson & Johnson,JNJ
+Net Income,17941,20878,14714,Johnson & Johnson,JNJ
+Net Margin %,0.19,0.22,0.18,Johnson & Johnson,JNJ
+Basic Net EPS,6.83,7.93,5.59,Johnson & Johnson,JNJ
+Diluted Net EPS,6.73,7.81,5.51,Johnson & Johnson,JNJ
+Basic Shares Outstanding,2625,2632,2633,Johnson & Johnson,JNJ
+Diluted Shares Outstanding,2664,2674,2671,Johnson & Johnson,JNJ
+Revenue,43004,38655,33014,Coca-Cola,KO
+COGS,18000,15357,13433,Coca-Cola,KO
+Gross Margin,25004,23298,19581,Coca-Cola,KO
+Gross Margin %,0.58,0.6,0.59,Coca-Cola,KO
+SG&A Expense,12880,12144,9731,Coca-Cola,KO
+Other Operating Expenses,1215,846,853,Coca-Cola,KO
+Operating Income,10909,10308,8997,Coca-Cola,KO
+Operating Margin %,0.25,0.27,0.27,Coca-Cola,KO
+Equity Income,1472,1438,978,Coca-Cola,KO
+Other Income,-262,2000,841,Coca-Cola,KO
+Earnings Before Interest & Tax,12119,13746,10816,Coca-Cola,KO
+Interest Income,449,276,370,Coca-Cola,KO
+Interest Expense,882,1597,1437,Coca-Cola,KO
+Earnings Before Tax,11686,12425,9749,Coca-Cola,KO
+Income Tax Expense,2115,2621,1981,Coca-Cola,KO
+Consolidated Net Income,9571,9804,7768,Coca-Cola,KO
+Minority Interest Expense,29,33,21,Coca-Cola,KO
+Net Income,9542,9771,7747,Coca-Cola,KO
+Net Margin %,0.22,0.25,0.24,Coca-Cola,KO
+Basic Net EPS,2.2,2.26,1.8,Coca-Cola,KO
+Diluted Net EPS,1.19,2.25,1.79,Coca-Cola,KO
+Basic Shares Outstanding,4328,4315,4295,Coca-Cola,KO
+Diluted Shares Outstanding,4350,4340,4323,Coca-Cola,KO
+Revenue,86403,79468,70372,Pepsi,PEP
+COGS,40281,36932,31760,Pepsi,PEP
+Gross Margin,46122,42536,38612,Pepsi,PEP
+Gross Margin %,0.53,0.54,0.55,Pepsi,PEP
+SG&A Expense,33485,30337,27478,Pepsi,PEP
+R&D Expense,771,752,719,Pepsi,PEP
+Operating Income,11866,11447,10415,Pepsi,PEP
+Operating Margin %,0.14,0.14,0.15,Pepsi,PEP
+Unusual Expense,3577,303,336,Pepsi,PEP
+Non Operating Expense,3196,420,253,Pepsi,PEP
+Earnings Before Interest & Tax,5093,10724,9826,Pepsi,PEP
+Interest Expense,780,1743,1263,Pepsi,PEP
+Earnings Before Tax,4313,8981,8563,Pepsi,PEP
+Income Tax Expense,1727,2142,1894,Pepsi,PEP
+Consolidated Net Income,2586,6839,6669,Pepsi,PEP
+Minority Interest Expense,68,61,55,Pepsi,PEP
+Net Income,2518,6778,6614,Pepsi,PEP
+Net Margin %,0.03,0.09,0.09,Pepsi,PEP
+Basic Net EPS,1.82,4.9,4.78,Pepsi,PEP
+Diluted Net EPS,1.82,4.88,4.75,Pepsi,PEP
+Basic Shares Outstanding,1380,1382,1385,Pepsi,PEP
+Diluted Shares Outstanding,1387,1389,1392,Pepsi,PEP
+Revenue,80187,76118,70950,Proctor & Gamble,PG
+COGS,42157,37108,35250,Proctor & Gamble,PG
+Gross Margin,38030,39010,35700,Proctor & Gamble,PG
+Gross Margin %,0.47,0.51,0.50,Proctor & Gamble,PG
+SG&A Expense,20217,21024,19994,Proctor & Gamble,PG
+Operating Income,17813,17986,15706,Proctor & Gamble,PG
+Operating Margin %,0.22,0.24,0.22,Proctor & Gamble,PG
+Other Income,570,86,438,Proctor & Gamble,PG
+Earnings Before Interest & Tax,18383,18072,16144,Proctor & Gamble,PG
+Interest Expense,439,502,465,Proctor & Gamble,PG
+Interest Income,-51,-45,-155,Proctor & Gamble,PG
+Earnings Before Tax,17995,17615,15834,Proctor & Gamble,PG
+Income Tax Expense,3202,3263,2731,Proctor & Gamble,PG
+Consolidated Net Income,14793,14352,13103,Proctor & Gamble,PG
+Minority Interest Expense,51,46,76,Proctor & Gamble,PG
+Net Income,14742,14306,13027,Proctor & Gamble,PG
+Net Margin %,0.18,0.19,0.18,Proctor & Gamble,PG
+Basic Net EPS,6,5.69,5.13,Proctor & Gamble,PG
+Diluted Net EPS,5.81,5.5,4.96,Proctor & Gamble,PG
+Basic Shares Outstanding,2457,2514,2539,Proctor & Gamble,PG
+Diluted Shares Outstanding,2537,2601,2626,Proctor & Gamble,PG
